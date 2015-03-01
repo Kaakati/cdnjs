@@ -1,10 +1,10 @@
 {
   "name": "bootstrap-rtl",
-  "filename": "css/bootstrap-rtl.min.css",
-  "description": "Right-to-left (RTL) support for Boostrap 3.x. Note: due to a versioning error at source, v3.1.2 is identical to v3.1.1. Info: https://github.com/cdnjs/cdnjs/pull/3259",
-  "version": "3.2.0-rc2",
-  "homepage": "http://github.com/morteza/bootstrap-rtl",
-  "author": "Morteza Ansarinia <ansarinia@me.com>",
+  "filename": "css/bootstrap.min.css",
+  "description": "Right-to-left (RTL) Boostrap v3.3.2
+  "version": "3.3.2",
+  "homepage": "https://github.com/Kaakati/RTL_Bootstrap_3.3.2",
+  "author": "Mohamad Kaakati <mt.wicked@gmail.com>",
   "keywords": [
     "twitter",
     "bootstrap",
@@ -19,7 +19,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/morteza/bootstrap-rtl.git"
+      "url": "https://github.com/Kaakati/RTL_Bootstrap_3.3.2.git"
     }
   ],
   "licenses": [
